@@ -1,0 +1,20 @@
+<package>
+	<id>com.mins.lunaios</id>
+	<name>Luna Touch (tar-experiment)</name>
+	<version>1.7.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>13.0</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>No</dependencies>
+	<descriptionlist>
+		<description>Luna iOS 13</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>No Change. Already stable</change>
+	</changelog>
+	<links></links>
+</package>
